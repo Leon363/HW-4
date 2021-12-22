@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.logo_title{
+    width: 40vh;  
+    height: 25vh;
+}
+
+.logo_position_link{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-height: 20vh; 
+    overflow-y: auto;
+}
+.logo_position_link{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-height: 20vh; 
+    overflow-y: auto;
+}
+
+.text_link{
+    width: 20vw;  
+    height: 15vh;
+}
